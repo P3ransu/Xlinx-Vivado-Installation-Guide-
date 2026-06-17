@@ -3,7 +3,6 @@
 ## This is a quick, simple and easy guide on how to install Xlinx Vivado for the purpose of Design,Simulation,Synthesis and Implementation of HDL programs.
 ---
 ## Some Pre Checks To Confirm before starting
----
 1. Make sure you have a stable connection
 2. Make sure to use Either Microsoft Edge or Google Chrome to avoid any unforseen issues
 3. maintain a empty disk space of about 80GB -200GB
