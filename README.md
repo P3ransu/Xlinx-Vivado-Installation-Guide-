@@ -11,8 +11,14 @@
     The download webpage => ((https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
 2. Here as per system requirements please click the text(hyperlinks under the heading title ) on the left and __NOT__ the Unified Installer 
     - This will take you to the information page
+    - Link for Windows Systems => (https://account.amd.com/en/forms/downloads/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.exe)
+      <img width="1887" height="870" alt="image" src="https://github.com/user-attachments/assets/e115c666-9e65-4044-9ccc-8b962be50f38" />
+      <img width="1651" height="753" alt="image" src="https://github.com/user-attachments/assets/4b0e37d5-224c-4532-abbe-ffd3c4464912" />
 3. Enter your information as required and make sure to either use a __college email__ or the __company email__ and proceed.
     - This will get you free license(incase of student id) or a compaany license(purchase by the company)
+      <img width="1885" height="867" alt="image" src="https://github.com/user-attachments/assets/278628b3-634d-42e6-9a5a-afb0c998dd2d" />
+      
+
 4. In the rare case of the license not being issued please do proceed to send an email for which a reply will be given within 3 days.
 5. Now considering this is done click the downnload button and choose the file destination for the installer now the installation may take some time
 6. Upon completion of the download run the installer and follow the steps as given in the __Installation Wizard__ as follows 
@@ -24,8 +30,6 @@
     5. Proceed to agree with all the license agreements
     6. Select the destination folder and proceed
     7. Click Next
-       <img width="916" height="472" alt="image" src="https://github.com/user-attachments/assets/9c65f202-8f99-401c-bfeb-d9a1a89bb92e" />
-
     9. Click Install
 
 
