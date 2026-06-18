@@ -28,24 +28,31 @@
 5. Now considering this is done click the downnload button and choose the file destination for the installer now the installation may take some time
 6. Upon completion of the download run the installer and follow the steps as given in the __Installation Wizard__ as follows 
     1. Proceed to next
-        <img width="425" height="327" alt="image" src="https://github.com/user-attachments/assets/24f67d55-44e4-4044-803e-14b226a1b432" />
 
-    2. Enter the email and password of the created account
-        <img width="425" height="322" alt="image" src="https://github.com/user-attachments/assets/7192d4cb-aad5-4a62-a1cf-e3985be7e9dd" />
+       <img width="425" height="327" alt="image" src="https://github.com/user-attachments/assets/24f67d55-44e4-4044-803e-14b226a1b432" />
+    3. Enter the email and password of the created account
 
-    3. Select the required product for installation as per your requirements(select Vivado if your unsure or only need it for design,implementation etc in HDL) 
-        <img width="425" height="323" alt="image" src="https://github.com/user-attachments/assets/1cbdb82a-bb9d-4098-ab21-108edcbc1997" />
+       <img width="425" height="322" alt="image" src="https://github.com/user-attachments/assets/7192d4cb-aad5-4a62-a1cf-e3985be7e9dd" />
 
-    4. Select the required devices as per your requirements
+    5. Select the required product for installation as per your requirements(select Vivado if your unsure or only need it for design,implementation etc in HDL) 
+
+       <img width="425" height="323" alt="image" src="https://github.com/user-attachments/assets/1cbdb82a-bb9d-4098-ab21-108edcbc1997" />
+
+    7. Select the required devices as per your requirements
         - Please note the storage taken will be massive so refrain from checking unnesacery options.
+
           <img width="421" height="325" alt="image" src="https://github.com/user-attachments/assets/7d161f99-edce-4ee2-8094-62b94c790601" />
 
-    5. Proceed to agree with all the license agreements
+    8. Proceed to agree with all the license agreements
+
         <img width="426" height="328" alt="image" src="https://github.com/user-attachments/assets/5c9c8e92-8d5e-4b32-bce8-223a05fb0c82" />
 
-    6. Select the destination folder and proceed
-    
-    7. Click Next
-    9. Click Install
+    10. Let everything on this page be the same as default
+        - Please note the issues in the screenshot won't be faced by you and exist only because I have Vivado already installed
+
+    <img width="635" height="491" alt="image" src="https://github.com/user-attachments/assets/69f52a86-4c40-44a6-9ded-81abc90d028f" />
+
+    11. Click Next
+    12. Click Install
 
 
